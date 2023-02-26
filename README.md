@@ -1,6 +1,6 @@
 # todoey
 
-A new Flutter project.
+A to do app using local database hive to manage personal experience.
 
 ## Getting Started
 
